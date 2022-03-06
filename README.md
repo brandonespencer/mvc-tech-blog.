@@ -6,12 +6,11 @@
 
 ### Application Deployment
 
-https://mvc-tech-blog.herokuapp.com/
+
 
 ### Application Screenshot
 
-![](images/mvc-tech-blog.png)
-  
+
 ### User Story
 
 ```
