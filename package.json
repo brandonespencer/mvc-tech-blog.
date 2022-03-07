@@ -5,8 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "jest",
-    
-    "serve -s build"     
+    "start": "node server.js",, 
     "watch": "nodemon server.js",
     "seed": "node seeds/index.js"
   },
