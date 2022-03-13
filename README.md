@@ -6,9 +6,11 @@
 
 ### Application Deployment
 
+https://brandonespencer-mvc-tech-blog.herokuapp.com/
 
 
-### Application Screenshot
+### Application Screenshot 
+<img width="1208" alt="Screen Shot 2022-03-13 at 1 59 43 AM" src="https://user-images.githubusercontent.com/46231696/158054404-ee6855d8-83ea-4a55-a738-e2c71415b484.png">
 
 
 ### User Story
