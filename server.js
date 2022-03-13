@@ -19,7 +19,7 @@ const sess = {
   secret: 'process.env.DB_SESSION_SECRET',
   cookie: {
         // Session will automatically expire in 10 minutes
-        expires: 10 * 60 * 1000
+         maxAge: 7200000 
   },
   resave: true,
   rolling: true,
