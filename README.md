@@ -12,6 +12,7 @@ https://brandonespencer-mvc-tech-blog.herokuapp.com/
 ### Application Screenshot 
 <img width="1208" alt="Screen Shot 2022-03-13 at 1 59 43 AM" src="https://user-images.githubusercontent.com/46231696/158054404-ee6855d8-83ea-4a55-a738-e2c71415b484.png">
 
+<img width="1418" alt="Screen Shot 2022-03-27 at 3 11 52 AM" src="https://user-images.githubusercontent.com/46231696/160276763-8f68c472-9a69-4032-b19b-51e1df6cdb97.png">
 
 ### User Story
 
